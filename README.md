@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandro
-- 👀 I’m interested in learn code and share of some my projects, also your feedback are very important for my improvement.
+- 👀 I’m interested in share of some my projects.
 - 🌱 I’m currently learning SQL and R 
 - 💞️ I’m looking to collaborate on Data manipulation
 
