@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandro
 - 👀 I’m interested in share of some my projects.
-- 💞️ I’m looking to collaborate on Data manipulation
+- 💞️ I’m looking to collaborate on data manipulation, data exploration and analysis.
 
 
 <!---
